@@ -43,8 +43,18 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Sg +Du +Pl
  +Ess +Nom +Gen +Acc +Ill +Loc +Com 
 
-!! The possession is marked as such:
- +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
+!! ## Possessive tags
+! see Crofts 1985: 82; Gomes, 2006: 20, 24
+ +PxSg1   !!≈ * **@CODE@** Singular First Person
+ +PxSg2   !!≈ * **@CODE@** Singular Second Person
+ +PxSg3  !!≈ * **@CODE@** Singular Third Person
+ +PxSg3c  !!≈ * **@CODE@** Singular Third Person correlating ? reflexive
+ +PxPl1   !!≈ * **@CODE@** Plural First Person Exclusive
+ +PxPl12   !!≈ * **@CODE@** Plural First Person Inclusive
+ +PxPl2   !!≈ * **@CODE@** Plural Second Person
+ +PxPl3  !!≈ * **@CODE@** Plural Third Person 
+
+
 !! The comparative forms are:
  +Comp +Superl
 !! Numerals are classified under:
