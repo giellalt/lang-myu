@@ -139,7 +139,16 @@ The Usage extents are marked using following tags:
 
 The nominals are inflected in the following Case and Number
 
-The possession is marked as such:
+## Possessive tags
+* **+PxSg1** Singular First Person
+* **+PxSg2** Singular Second Person
+* **+PxSg3** Singular Third Person
+* **+PxSg3c** Singular Third Person correlating ? reflexive
+* **+PxPl1** Plural First Person Exclusive
+* **+PxPl12** Plural First Person Inclusive
+* **+PxPl2** Plural Second Person
+* **+PxPl3** Plural Third Person 
+
 The comparative forms are:
 Numerals are classified under:
 Verb moods are:
