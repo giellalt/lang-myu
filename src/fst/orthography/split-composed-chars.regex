@@ -1,0 +1,19 @@
+# Regex to expand multichar symbols (in the fst sense) to a string of individual letters.
+# Will make sure that various tools do not choke on parsing input strings.
+
+"Ã̀"  -> {Ã̀} ,
+"ã̀"  -> {ã̀} ,
+"Ẽ̀" -> {Ẽ̀},
+"ẽ̀" -> {ẽ̀},
+"Ĩ̀" -> {Ĩ̀},
+"ĩ̀"  -> {ĩ̀} ,
+"Õ̀" -> {Õ̀},
+"õ̀"  -> {õ̀} ,
+"Ũ̀"  -> {Ũ̀} ,
+"ũ̀"  -> {ũ̀} ,
+"Ã́"  -> {Ã́} ,
+"ã́" -> {ã́},
+"Ẽ́"  -> {Ẽ́} ,
+"ẽ́" -> {ẽ́},
+"Ĩ́"  -> {Ĩ́} ,
+"ĩ́"  -> {ĩ́} ;
