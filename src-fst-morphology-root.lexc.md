@@ -4,6 +4,23 @@ INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Mundurukú LANGUAGE.
 # Definitions for Multichar_Symbols
 
 ## Analysis symbols
+## Letters
+ã̀ 
+ẽ̀ 
+ĩ̀ 
+õ̀ 
+ũ̀ 
+ã́ 
+ẽ́ 
+ĩ́ 
+Ã̀ 
+Ẽ̀ 
+Ĩ̀ 
+Õ̀ 
+Ũ̀ 
+Ã́ 
+Ẽ́ 
+Ĩ́  
 The morphological analyses of wordforms for the Mundurukú
 language are presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
