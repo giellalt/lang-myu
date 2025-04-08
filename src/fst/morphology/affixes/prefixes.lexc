@@ -1,0 +1,19 @@
+!! Prefixes
+!  --------
+!! Prefixes in the Mundurukú language are attatched to the left of other words.
+
+LEXICON Prefixes
+nounprefix-     Nouns   ;
+verbprefix-     Verbs   ;
+
+!Gomes 2006: 20
+!:%{ow%}%< Nouns ;!
+!:%{eØ%}%< Nouns ;!
+!:j%{eØ%}%< Nouns ;!DeVoice/y/i/ce
+!:j%{eØ%}%< Nouns ;!coref
+!:oc%{eØ%}%< Nouns ;!
+!:wuy%{eØ%}%< Nouns ;!
+!:ey%{eØ%}%< Nouns ;!
+!:j%{eØ%}%< Nouns ;!
+
+! vim: set ft=xfst-lexc:
