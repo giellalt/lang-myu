@@ -4,5 +4,12 @@
 
 LEXICON Nouns
 noun+N:noun    Cases   ;
+ayacat+N:ayacat Cases "mulher" ;
+ag̃okatkat+N:ag̃okatkat Cases "homem" ;
+bekicat+N:bekicat Cases "crinça" ;
+bio+N:bio Cases "anta" ;
+kajarãw+N:kajarãw Cases "panela" ;
+kape+N:kape Cases "café" ;
+wida+N:wida Cases "onça" ;
 
 ! vim: set ft=xfst-lexc:
