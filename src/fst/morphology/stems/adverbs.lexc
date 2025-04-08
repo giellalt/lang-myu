@@ -1,0 +1,13 @@
+!! Adverbs
+!  -----
+!! Adverbs in the Mundurukú language refer to time, space, manner.
+
+LEXICON Adverbs
+kapusu+Adv:kapusu  # "ontem" ;
+g̃asũ+Adv:g̃asũ # "hoje" ;
+g̃ebuje+Adv:g̃ebuje # "então" ;
+kuy+Adv:kuy # "já" ;
+kuyaje+Adv:kuyaje # "amanhã" ;
+waram+Adv:waram # "outra-vez" ;
+
+! vim: set ft=xfst-lexc:
