@@ -4,5 +4,10 @@
 
 LEXICON Pronouns
 pronoun    Cases   ;
+õn+Pron+Pers+Sg1+Nom:õn # ;
+ẽn+Pron+Pers+Sg2+Nom:ẽn # ;
+wuyju+Pron+Pers+Pl12+Nom:wuyju # ;
+oceju+Pron+Pers+Pl1+Nom:oceju # ;
+eyju+Pron+Pers+Pl2+Nom:eyju # ;
 
 ! vim: set ft=xfst-lexc:
