@@ -60,6 +60,17 @@ The Mundurukú language nouns inflect in number and cases.
 
 ---
 
+# src-fst-morphology-affixes-prefixes.lexc.md 
+
+Prefixes
+Prefixes in the Mundurukú language are attatched to the left of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/prefixes.lexc](https://github.com/giellalt/lang-myu/blob/main/src/fst/morphology/affixes/prefixes.lexc)</small>
+
+---
+
 # src-fst-morphology-affixes-propernouns.lexc.md 
 
 Proper noun inflection
@@ -188,6 +199,10 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
+place holders are used for reduplication
+* %{p1%}   This reflects the possible consonant beginning the final syllable of the root
+* %{p2%}  This reflects the vowel in the final syllable of the root
+* %{p3%}  This reflects the consonant following the vowel in the final syllable of the root
 
 And following triggers to control variation
 
@@ -239,6 +254,17 @@ Adjectives in the Mundurukú language describe the entities nouns refer to.
 
 ---
 
+# src-fst-morphology-stems-adverbs.lexc.md 
+
+Adverbs
+Adverbs in the Mundurukú language refer to time, space, manner.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adverbs.lexc](https://github.com/giellalt/lang-myu/blob/main/src/fst/morphology/stems/adverbs.lexc)</small>
+
+---
+
 # src-fst-morphology-stems-nouns.lexc.md 
 
 Nouns
@@ -258,17 +284,6 @@ Numerals in the Mundurukú language describe a nuerical quantity.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-myu/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
-
----
-
-# src-fst-morphology-stems-prefixes.lexc.md 
-
-Prefixes
-Prefixes in the Mundurukú language are attatched to the left of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-myu/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 

@@ -67,6 +67,10 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
+place holders are used for reduplication
+* %{p1%}   This reflects the possible consonant beginning the final syllable of the root
+* %{p2%}  This reflects the vowel in the final syllable of the root
+* %{p3%}  This reflects the consonant following the vowel in the final syllable of the root
 
 And following triggers to control variation
 
