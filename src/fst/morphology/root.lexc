@@ -58,6 +58,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
+ +Ins
  +Ess +Nom +Gen +Acc +Ill +Loc +Com 
 
 !! ## Possessive tags
@@ -80,7 +81,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
- +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
+ +Sg1 +Sg2 +Sg3
+ +Pl1
+ +Pl12
+ +Pl2 +Pl3
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
@@ -132,7 +136,12 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !  ---------------
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
- {aä} {oö} {uü}
+!! place holders are used for reduplication
+%{p1%} !!= * @CODE@  This reflects the possible consonant beginning the final syllable of the root
+%{p2%} !!= * @CODE@ This reflects the vowel in the final syllable of the root
+%{p3%} !!= * @CODE@ This reflects the consonant following the vowel in the final syllable of the root
+
+{aä} {oö} {uü}
 
 !! And following triggers to control variation
  {front} {back}
@@ -168,9 +177,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 LEXICON Root
 !! The word forms in Mundurukú language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
+ Adjectives  ;
+ Adverbs  ;
  Nouns       ;
  Verbs       ;
- Adjectives  ;
  Pronouns    ;
  Numerals    ;
  Prefixes    ;
