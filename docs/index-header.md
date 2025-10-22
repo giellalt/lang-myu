@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-myu)](https://github.com/giellalt/lang-myu/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-myu)](https://github.com/giellalt/lang-myu/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-myu?label=CI)](https://builds.giellalt.org/pipelines/lang-myu/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/mund1330)
 
 This page documents the work on the **Mundurukú language model**. 
 
